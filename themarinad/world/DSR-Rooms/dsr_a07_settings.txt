@@ -1,0 +1,7 @@
+Template: NONE
+Palette: 2
+EffectColorA: 3
+EffectColorB: 5
+Effects: LightRain-0.5-20-20, 
+PlacedObjects: WallLight><1650.181><733.8356><-213~-218~1650.181~733.8356~673~-634~-856~15~-1566~-602~0~0.1413043~0.5326087~False~SkyColor~False~False~Always~Hard, 
+FadePalette: 1, 0.5, 0.5

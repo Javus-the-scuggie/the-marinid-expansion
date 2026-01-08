@@ -1,0 +1,6 @@
+Template: NONE
+Palette: 3
+EffectColorA: 5
+EffectColorB: 3
+AmbientSounds: OMNI><tm_metalgroans.ogg><705.425><473.6854><0.2065217><0.9021739, 
+FadePalette: 5, 0.3043478

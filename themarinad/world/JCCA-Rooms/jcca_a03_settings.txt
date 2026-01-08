@@ -1,0 +1,18 @@
+Template: NONE
+Clouds: 0
+Palette: 2
+EffectColorA: 5
+EffectColorB: 4
+TerrainLight: 0
+TerrainStainHeight: 0
+TerrainWaves: 0.5434783
+TerrainEdgeRadius: 170.8695
+TerrainGooHeight: 0.3369565
+TerrainGrain: 0.2956516
+TerrainDepth: -3.478261
+TerrainSkyFade: 0.7173913
+TerrainPalette: test_sand_2
+Effects: BorderPushBack-0-20-20, 
+PlacedObjects: TerrainHandle><3301.943><224.1959><-143~-16~106~0~20, TerrainHandle><2885.698><221.0271><-297~-11~311~-18~56, TerrainHandle><1299.802><257.9706><-40~0~40~0~20, TerrainHandle><209.6939><223.7011><-121~-15~40~0~20, 
+AmbientSounds: OMNI><AM_ENV-CityTone.ogg><735.6014><562.5776><0.3043478><1, 
+FadePalette: 13, 0.326087, 0.4565217, 0.7173913

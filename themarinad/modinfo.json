@@ -1,0 +1,12 @@
+{
+    "id": "eclipso-themarinadexpansion",
+    "name": "The Marinad Expansion",
+    "version": "1.0.0",
+    "hide_version": false,
+    "authors": "The Marinad Team",
+    "description": "A mysterious individual, is he a messenger? or is he something far greater? no one really never knew, but he is on a journey. and its a long one.",
+    "requirements": ["regionkit"],
+    "requirements_names": ["RegionKit"],
+    "checksum_override_version": false,
+    "tags": ["Cosmetics"]
+}

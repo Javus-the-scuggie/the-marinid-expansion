@@ -1,0 +1,7 @@
+Template: NONE
+Palette: 2
+EffectColorA: 3
+EffectColorB: 5
+Effects: SandStorm-1-20-20, SurfaceSandstorm-0.3043478-162-75, LightRain-0.3043478-30-30, 
+AmbientSounds: OMNI><AM_IND-Factory01.ogg><773.3104><62.02383><0.5><1, 
+FadePalette: 1, 0.5
