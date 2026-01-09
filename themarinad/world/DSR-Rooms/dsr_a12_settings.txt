@@ -1,7 +1,6 @@
 Template: NONE
-Clouds: 0.6614856
 Palette: 2
 EffectColorA: 3
 EffectColorB: 5
-PlacedObjects: WallLight><395.0803><600.6832><, CustomDecal><514.4418><551.0568><-78~242~231~240~160~6~-356~15~0~1~0~fsr dead~1~0~1~0.3804348~1~0.4782609~1~0.2391304, CustomDecal><638.9335><381.3295><-27~217~118~213~118~-24~343~148~0~0.8695652~0~o7 - mossrust~0.3478261~0~0.3478261~0~0.3478261~0~0.3478261~0, 
+PlacedObjects: WallLight><393.0803><600.6832><183~-314~393.0803~600.6832~980~-260~-133~-7~-285~-436~0~0.5~0.4021739~False~SkyColor~False~False~Always~Hard, 
 FadePalette: 3, 0.5108696
