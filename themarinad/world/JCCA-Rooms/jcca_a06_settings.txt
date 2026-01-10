@@ -1,0 +1,8 @@
+Template: NONE
+Palette: 3
+EffectColorA: 5
+EffectColorB: 2
+PlacedObjects: ReliableSpear><1738.959><145.9069><, 
+FadePalette: 4, 0.4407947, 0.448528
+BackgroundOffset: 1469.318,541.3252
+BackgroundType: atc_oe_treetopview
