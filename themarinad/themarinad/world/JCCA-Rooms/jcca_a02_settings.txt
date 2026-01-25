@@ -1,0 +1,6 @@
+Template: NONE
+Palette: 11
+EffectColorA: 3
+EffectColorB: 6
+PlacedObjects: NoSpearStickZone><890.151><382.1312><-3~82, ReliableSpear><460.6063><329.9194><, 
+FadePalette: 30, 0.5

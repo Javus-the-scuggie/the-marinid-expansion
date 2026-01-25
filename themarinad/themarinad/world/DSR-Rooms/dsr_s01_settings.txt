@@ -1,0 +1,7 @@
+Template: NONE
+Palette: 2
+EffectColorA: 3
+EffectColorB: 5
+PlacedObjects: WallLight><658.551><492.9799><-71~75.00003~658.551~492.9799~244~-69~-14~1~-286~-77~0~0.5~1~False~SkyColor~False~False~Always~Hard, CosmeticSlimeMold><413.0735><516.4059><39~80, ShelterSpawnPoint><703.3003><340.0114><, 
+AmbientSounds: OMNI><AM_ENV-CityTone.ogg><703.593><565.3027><1><0.8051216, 
+FadePalette: 1, 0.5

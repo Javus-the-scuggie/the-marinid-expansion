@@ -1,0 +1,7 @@
+Template: NONE
+Palette: 2
+EffectColorA: 3
+EffectColorB: 5
+Effects: PinkSky-0-20-20, 
+PlacedObjects: WallLight><731.2426><651.5502><111~-142~731.2426~651.5502~566~-441~-38~0~-546~-403~0~0.5~0.5652174~False~SkyColor~False~False~Always~Hard, 
+FadePalette: 3, 0.8043478

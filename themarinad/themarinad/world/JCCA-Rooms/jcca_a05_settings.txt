@@ -1,0 +1,6 @@
+Template: NONE
+Palette: 3
+EffectColorA: 4
+EffectColorB: 5
+PlacedObjects: ReliableSpear><885.1716><360.7204><, 
+FadePalette: 2, 0.2242641

@@ -1,0 +1,7 @@
+Template: NONE
+Clouds: 0.5514287
+Palette: 3
+EffectColorA: 5
+EffectColorB: 2
+PlacedObjects: GooieDuck><580.9709><1354.052><0~0~2~3, GooieDuck><626.4259><1368.405><0~0~2~3, DandelionPeach><788.8486><1000.119><-179~108~2~3, DandelionPeach><810.2409><1009.95><-22~147~2~3, 
+FadePalette: 4, 0.2282609, 0.2282609
