@@ -1,8 +1,0 @@
-Template: NONE
-Clouds: 0
-Palette: 2
-EffectColorA: 3
-EffectColorB: 5
-Effects: Bloom-0-20-20, 
-PlacedObjects: CustomDecal><312.5695><383.5862><0~40~169~174~194~-123~452~-14~0~1~0~junkgraffitikogad~1~0.6304348~1~0.6304348~1~0.6304348~1~0.6304348, WallLight><260.3036><627.7121><172~-103~260.3036~627.7121~893~-334~-108~-48~-27~-528~0~0.5543478~0.5652174~False~SkyColor~False~False~Always~Hard, LanternOnStick><418.0835><338.3892><-34~-148, LanternOnStick><248.4347><357.6733><-1~-124, DandelionPatch><497.6572><221.1237><0~100, 
-FadePalette: 3, 0.8043478

@@ -16,7 +16,7 @@
 		"food_min": 6,
 		"food_max": 9,
 
-		"select_menu_scene": "",
+		"title_card": "Marinad_Title_Card",
 
 		"diet": {
 			"base": "Hunter"
