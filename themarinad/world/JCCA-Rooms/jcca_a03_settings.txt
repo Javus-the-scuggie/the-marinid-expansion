@@ -1,4 +1,10 @@
 Template: NONE
+DangerType: None
+WaveSpeed: 0.4162586
+WaveLength: 0.9581293
+WaveAmplitude: 1.740174E-05
+SecondWaveLength: 0.1666667
+SecondWaveAmplitude: 0
 Clouds: 0
 Palette: 2
 EffectColorA: 5
@@ -16,3 +22,5 @@ Effects: BorderPushBack-0-20-20,
 PlacedObjects: TerrainHandle><3301.943><224.1959><-143~-16~106~0~20, TerrainHandle><2885.698><221.0271><-297~-11~311~-18~56, TerrainHandle><1299.802><257.9706><-40~0~40~0~20, TerrainHandle><209.6939><223.7011><-121~-15~40~0~20, 
 AmbientSounds: OMNI><AM_ENV-CityTone.ogg><735.6014><562.5776><0.3043478><1, 
 FadePalette: 13, 0.326087, 0.4565217, 0.7173913
+BackgroundOffset: -5000,1086.956
+BackgroundType: clashingskies

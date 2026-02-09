@@ -2,7 +2,7 @@ Template: NONE
 Palette: 3
 EffectColorA: 5
 EffectColorB: 2
-PlacedObjects: ReliableSpear><1738.959><145.9069><, 
+PlacedObjects: ReliableSpear><1955.242><153.7291><, 
 FadePalette: 4, 0.4407947, 0.448528
-BackgroundOffset: 1469.318,541.3252
-BackgroundType: atc_oe_treetopview
+BackgroundOffset: -4021.739,1195.652
+BackgroundType: clashingskies
